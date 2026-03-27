@@ -10,9 +10,7 @@ Third Year BSc Information and Knowledge Systems student at the University of Pr
 
 ## Technical Skills
 
-**Languages:** Java • C++ • JavaScript  
-**Web Development:** HTML • CSS  
-**Concepts:** Data Structures and Algorithms • Object-Oriented Programming • Problem Solving  
+**Languages:** Java • C++ • JavaScript • HTML • CSS • NodeJS • PHP • React  
 **Tools & Design:** Git • GitHub • Jest • Supertest • Figma  
 
 ## Projects & Experience
