@@ -1,12 +1,12 @@
 # Hi there, I'm Hamdaan Mirza 👋
 
-Third Year BSc Information and Knowledge Systems student at the University of Pretoria with a strong interest in software development, algorithms, and backend systems.
+Third Year BSc Information and Knowledge Systems student at the University of Pretoria with a strong interest in software development, machine learning, and full-stack systems.
 
 ## About Me
 
 - Currently tutoring **COS 212 – Data Structures and Algorithms**
 - Interested in gaining industry experience and expanding my perspective on real-world software development
-- Passionate about problem solving, clean code, and learning new technologies
+- Passionate about problem solving, software solutions, and learning new technologies
 
 ## Technical Skills
 
@@ -15,18 +15,16 @@ Third Year BSc Information and Knowledge Systems student at the University of Pr
 
 ## Projects & Experience
 
-- **App Prototype (Mini Project):** Currently designing the UI/UX and building out a mobile application using Figma.
 - **Software Engineering Group Project (COS 301):** Collaborating in a team environment to architect and develop a comprehensive software solution. 
-- **Digital Product Creator:** Designing, building, and selling productivity tools, such as a Job Search Tracker Notion template, demonstrating strong product sense and business logic.
+- **App Prototype:** Currently designing the UI/UX and building out a mobile application using Figma.
 
 ## Current Focus
 
-- Designing and building my mini-project app
+- Designing and building OptiGrid (Capstone Project), in partnership with epiuse
 - Improving algorithmic problem solving
-- Backend development with Node.js
 - Completing my Final Year
 
 ## Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR-LINK  
+LinkedIn: [https://linkedin.com/in/hamdaan-mirza/](https://www.linkedin.com/in/hamdaan-mirza/)
 Email: hamdaanmirza1@gmail.com
