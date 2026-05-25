@@ -10,21 +10,35 @@ Third Year BSc Information and Knowledge Systems student at the University of Pr
 
 ## Technical Skills
 
-**Languages:** Java • C++ • JavaScript • HTML • CSS • NodeJS • PHP • React  
-**Tools & Design:** Git • GitHub • Jest • Supertest • Figma  
+**Languages** <br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Tools & Design** <br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Projects & Experience
 
-- **Software Engineering Group Project (COS 301):** Collaborating in a team environment to architect and develop a comprehensive software solution. 
-- **App Prototype:** Currently designing the UI/UX and building out a mobile application using Figma.
+- **Software Engineering Group Project (COS 301):** Collaborating within the Coreflow team to architect and develop a comprehensive software solution using microservice architecture. 
+- **Google Maps Web Scraper:** Built an automated tool using Python and Selenium to efficiently extract targeted business data.
+- **Cricket Scorer Application:** Developed a functional prototype for live tracking and scoring of cricket matches.
+- **Theme Toggle Chrome Extension:** Created a browser extension prototype to manage responsive light and dark UI modes.
 
 ## Current Focus
 
-- Designing and building OptiGrid (Capstone Project), in partnership with epiuse
+- Designing and building OptiGrid (Capstone Project), an intelligent energy optimisation platform in partnership with EPI-USE
 - Improving algorithmic problem solving
 - Completing my Final Year
 
 ## Connect With Me
 
-LinkedIn: [https://linkedin.com/in/hamdaan-mirza/](https://www.linkedin.com/in/hamdaan-mirza/)
-Email: hamdaanmirza1@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdaan-mirza/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdaanmirza1@gmail.com)
