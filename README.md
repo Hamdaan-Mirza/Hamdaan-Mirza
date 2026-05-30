@@ -28,10 +28,10 @@ Third Year BSc Information and Knowledge Systems student at the University of Pr
 
 ## Projects & Experience
 
-- **Software Engineering Group Project (COS 301):** Collaborating within the Coreflow team to architect and develop a comprehensive software solution using microservice architecture. 
-- **Google Maps Web Scraper:** Built an automated tool using Python and Selenium to efficiently extract targeted business data.
-- **Cricket Scorer Application:** Developed a functional prototype for live tracking and scoring of cricket matches.
-- **Theme Toggle Chrome Extension:** Created a browser extension prototype to manage responsive light and dark UI modes.
+- **Software Engineering Group Project (COS 301):** Collaborating within the Coreflow team to architect and develop a comprehensive software solution using microservice architecture. [View on GitHub](https://github.com/COS301-SE-2026/OptiGrid)
+- **Google Maps Web Scraper:** Built an automated tool using Python and Selenium to efficiently extract targeted business data. [View on GitHub](https://github.com/Hamdaan-Mirza/Web_Scraper_Businesses)
+- **Cricket Scorer Application:** Developed a functional prototype for live tracking and scoring of cricket matches. [View on GitHub](https://github.com/Hamdaan-Mirza/CricScorer)
+- **Theme Toggle Chrome Extension:** Created a browser extension prototype to manage responsive light and dark UI modes. [View on GitHub](https://github.com/Hamdaan-Mirza/Dark-Mode-Extension)
 
 ## Current Focus
 
