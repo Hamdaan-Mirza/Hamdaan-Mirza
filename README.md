@@ -4,7 +4,6 @@ Third Year BSc Information and Knowledge Systems student at the University of Pr
 
 ## About Me
 
-- Currently tutoring **COS 212 – Data Structures and Algorithms**
 - Interested in gaining industry experience and expanding my perspective on real-world software development
 - Passionate about problem solving, software solutions, and learning new technologies
 
